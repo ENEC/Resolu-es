@@ -15,10 +15,11 @@
 - Logo após esse andamento normalizado, organizar o ENECOMP.
 
 ##Metodologia
-Formaremos 3 GTs:
+
+- Formaremos 3 GTs:
 	* De comunicação e mídias sociais - esta lidaria diariamente da comunicação com os CAs/DAs.
 	* Do site e conteúdo - esta faria uma reformulação do site e dos conteúdos.
 	* Da reorganização dos trabalhos que a ENEC produzia até então.
 
 ##ENECOMP
-Precisaremos começar a lidar com a organização do ENECOMP em paralelo.
+- Precisaremos começar a lidar com a organização do ENECOMP em paralelo.
